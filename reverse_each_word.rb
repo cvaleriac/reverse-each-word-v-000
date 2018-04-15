@@ -5,4 +5,3 @@ word.reverse
   end
   array.join(" ")
 end
-reverse_each_word(sentence)
